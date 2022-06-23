@@ -1,0 +1,4 @@
+baseURL = 'https://lewis.catley.me/'
+languageCode = 'en-gb'
+title = 'Blog'
+theme = "ananke"
